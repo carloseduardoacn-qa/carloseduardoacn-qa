@@ -31,7 +31,7 @@ Atualmente em transição de carreira, com dedicação diária ao aprendizado e 
 
 | Repositório | Descrição |
 |---|---|
-| 📁 [portfolio-qa]([link-do-repo](https://github.com/carloseduardoacn-qa/portfolio-qa)) | Bug reports, casos de teste e testes exploratórios reais |
+| 📁 [portfolio-qa](https://github.com/carloseduardoacn-qa/portfolio-qa)) | Bug reports, casos de teste e testes exploratórios reais |
 
 ---
 
