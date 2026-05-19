@@ -1,6 +1,6 @@
 # Olá, eu me chamo Carlos Eduardo Albuquerque Camargo 👋
 
-### QA Tester em Formação | Testes Manuais & Automação de API
+### Analista de Testes QA em Formação | Testes Manuais | API Testing
 
 Estou dando meus primeiros passos em Quality Assurance com foco em **testes funcionais, usabilidade e experiência do usuário**. Acredito que qualidade de software começa antes do código — e termina só quando o usuário está satisfeito.
 
