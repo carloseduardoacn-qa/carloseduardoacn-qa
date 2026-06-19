@@ -44,7 +44,7 @@ Atualmente em transição de carreira, com dedicação diária ao aprendizado e 
 🔄 Postman — testes manuais de API        [em andamento]
 🔄 Python para automação                  [em andamento]
 ⏳ Pytest + automação de API              [próxima etapa]
-⏳ Certificação ISTQB CTFL                [meta: 2025]
+⏳ Certificação ISTQB CTFL                [meta: 2026]
 ```
 
 ---
@@ -54,7 +54,3 @@ Atualmente em transição de carreira, com dedicação diária ao aprendizado e 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 
 ---
-
-<p align="center">
-  <i>"Qualidade não é um ato, é um hábito." — Aristóteles</i>
-</p>
